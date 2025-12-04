@@ -12,7 +12,7 @@ interface ArtistState {
 }
 
 const initialState: ArtistState = {
-  artistName: 'Coldplay',
+  artistName: 'Taylor Swift',
   albums: [],
   isLoading: false,
   error: null,
